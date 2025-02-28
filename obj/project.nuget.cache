@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xnYMYj61/g=",
+  "success": true,
+  "projectFilePath": "D:\\demopractice\\demopractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\advancedstringbuilder\\0.1.1\\advancedstringbuilder.0.1.1.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.13\\microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\mintplayer.aspnetcore.hsts\\8.0.0\\mintplayer.aspnetcore.hsts.8.0.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\mintplayer.aspnetcore.nodeservices\\8.2.0\\mintplayer.aspnetcore.nodeservices.8.2.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\mintplayer.aspnetcore.spaservices\\8.2.0\\mintplayer.aspnetcore.spaservices.8.2.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\mintplayer.aspnetcore.spaservices.abstractions\\8.2.0\\mintplayer.aspnetcore.spaservices.abstractions.8.2.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\mintplayer.aspnetcore.spaservices.prerendering\\8.2.0\\mintplayer.aspnetcore.spaservices.prerendering.8.2.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\mintplayer.aspnetcore.spaservices.routing\\8.2.0\\mintplayer.aspnetcore.spaservices.routing.8.2.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\webmarkupmin.aspnet.common\\2.18.0\\webmarkupmin.aspnet.common.2.18.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\webmarkupmin.aspnetcorelatest\\2.18.0\\webmarkupmin.aspnetcorelatest.2.18.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\webmarkupmin.core\\2.17.0\\webmarkupmin.core.2.17.0.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\yarn.msbuild\\1.22.19\\yarn.msbuild.1.22.19.nupkg.sha512",
+    "C:\\Users\\RenoAdmin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.13\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

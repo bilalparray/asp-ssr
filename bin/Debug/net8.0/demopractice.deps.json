@@ -1,0 +1,244 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "demopractice/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": "8.0.13",
+          "Microsoft.NET.ILLink.Tasks": "8.0.13",
+          "MintPlayer.AspNetCore.Hsts": "8.0.0",
+          "MintPlayer.AspNetCore.SpaServices.Routing": "8.2.0",
+          "WebMarkupMin.AspNetCoreLatest": "2.18.0"
+        },
+        "runtime": {
+          "demopractice.dll": {}
+        }
+      },
+      "AdvancedStringBuilder/0.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
+            "assemblyVersion": "0.1.1.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/8.0.13": {},
+      "Microsoft.NET.ILLink.Tasks/8.0.13": {},
+      "MintPlayer.AspNetCore.Hsts/8.0.0": {
+        "runtime": {
+          "lib/net8.0/MintPlayer.AspNetCore.Hsts.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
+        }
+      },
+      "MintPlayer.AspNetCore.NodeServices/8.2.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "Yarn.MSBuild": "1.22.19"
+        },
+        "runtime": {
+          "lib/net8.0/MintPlayer.AspNetCore.NodeServices.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      },
+      "MintPlayer.AspNetCore.SpaServices/8.2.0": {
+        "dependencies": {
+          "MintPlayer.AspNetCore.NodeServices": "8.2.0",
+          "MintPlayer.AspNetCore.SpaServices.Abstractions": "8.2.0",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/MintPlayer.AspNetCore.SpaServices.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      },
+      "MintPlayer.AspNetCore.SpaServices.Abstractions/8.2.0": {
+        "runtime": {
+          "lib/net8.0/MintPlayer.AspNetCore.SpaServices.Abstractions.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      },
+      "MintPlayer.AspNetCore.SpaServices.Prerendering/8.2.0": {
+        "dependencies": {
+          "MintPlayer.AspNetCore.NodeServices": "8.2.0",
+          "MintPlayer.AspNetCore.SpaServices": "8.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/MintPlayer.AspNetCore.SpaServices.Prerendering.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      },
+      "MintPlayer.AspNetCore.SpaServices.Routing/8.2.0": {
+        "dependencies": {
+          "MintPlayer.AspNetCore.SpaServices.Prerendering": "8.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/MintPlayer.AspNetCore.SpaServices.Routing.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "WebMarkupMin.AspNet.Common/2.18.0": {
+        "dependencies": {
+          "WebMarkupMin.Core": "2.17.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebMarkupMin.AspNet.Common.dll": {
+            "assemblyVersion": "2.18.0.0",
+            "fileVersion": "2.18.0.0"
+          }
+        }
+      },
+      "WebMarkupMin.AspNetCoreLatest/2.18.0": {
+        "dependencies": {
+          "WebMarkupMin.AspNet.Common": "2.18.0"
+        },
+        "runtime": {
+          "lib/net8.0/WebMarkupMin.AspNetCoreLatest.dll": {
+            "assemblyVersion": "2.18.0.0",
+            "fileVersion": "2.18.0.0"
+          }
+        }
+      },
+      "WebMarkupMin.Core/2.17.0": {
+        "dependencies": {
+          "AdvancedStringBuilder": "0.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebMarkupMin.Core.dll": {
+            "assemblyVersion": "2.17.0.0",
+            "fileVersion": "2.17.0.0"
+          }
+        }
+      },
+      "Yarn.MSBuild/1.22.19": {}
+    }
+  },
+  "libraries": {
+    "demopractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdvancedStringBuilder/0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-32IrlspOA59ewotQ4tlKP27QhKxMKGB7oncqlwVHn/hAz+j/r3HvLr6/W9ni9Mnyktlcg6kt7QZS8rEgur1+4Q==",
+      "path": "advancedstringbuilder/0.1.1",
+      "hashPath": "advancedstringbuilder.0.1.1.nupkg.sha512"
+    },
+    "Microsoft.DotNet.ILCompiler/8.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CCIhseY9KUJDIYKt7qD1IRLQA6Hr/8Dky31KS6UrM2sFyaFUb2JLagT0Uy2BiSf1i1Qy3nPjRb0zc1JFogOi9w==",
+      "path": "microsoft.dotnet.ilcompiler/8.0.13",
+      "hashPath": "microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R19ZTaRiQAK+xo9ZwaHbF/1vb1wwR1Wn5+sqp9v8+CDjbdS8R6qftKdw0VSXWKm7VAMi7P+NCU4zxDzhEWcAwQ==",
+      "path": "microsoft.net.illink.tasks/8.0.13",
+      "hashPath": "microsoft.net.illink.tasks.8.0.13.nupkg.sha512"
+    },
+    "MintPlayer.AspNetCore.Hsts/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cSFGOlZFq0CdVi8HkkmhulxqeXI9Wa1R6ZZ6oniMQL+ktVq6YU1+qbMwRhCfWkMbym67yKYJFGVRMmqhAnsGHQ==",
+      "path": "mintplayer.aspnetcore.hsts/8.0.0",
+      "hashPath": "mintplayer.aspnetcore.hsts.8.0.0.nupkg.sha512"
+    },
+    "MintPlayer.AspNetCore.NodeServices/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aaca82inEjgycjDw3jJTohDbpYaiv5WktxMjCZEWoiysCvEueGbuJcmEMAW4ObcRGRw+O9f2VB/GIs/cb3+kHg==",
+      "path": "mintplayer.aspnetcore.nodeservices/8.2.0",
+      "hashPath": "mintplayer.aspnetcore.nodeservices.8.2.0.nupkg.sha512"
+    },
+    "MintPlayer.AspNetCore.SpaServices/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SKI1WmnIHtIS37iDg20cQ/kx4X7yGUZROGF3ifVfi811HbIeUMQXH/fKCpxL7+rbUKDf5ktAb15gOnpqrhp6pw==",
+      "path": "mintplayer.aspnetcore.spaservices/8.2.0",
+      "hashPath": "mintplayer.aspnetcore.spaservices.8.2.0.nupkg.sha512"
+    },
+    "MintPlayer.AspNetCore.SpaServices.Abstractions/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XTqEe0UJ+C59aXdXkYi67DqHLjU/sKInZR/nI3Zo/zu/iammZfbEY6dIGvtkQ1uhmjBDnubjvqXdZBsn2ljpKQ==",
+      "path": "mintplayer.aspnetcore.spaservices.abstractions/8.2.0",
+      "hashPath": "mintplayer.aspnetcore.spaservices.abstractions.8.2.0.nupkg.sha512"
+    },
+    "MintPlayer.AspNetCore.SpaServices.Prerendering/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tyCvxQgB/4lUyUmwdkyAgx8Q+B+J5c7cYHLkwUHfsx7s4qsqX2F3mO8Zi95cbOdMhMeA68to9DoQT5LaA6mRCA==",
+      "path": "mintplayer.aspnetcore.spaservices.prerendering/8.2.0",
+      "hashPath": "mintplayer.aspnetcore.spaservices.prerendering.8.2.0.nupkg.sha512"
+    },
+    "MintPlayer.AspNetCore.SpaServices.Routing/8.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6qjJS6lporDA9cbMXz12BNu1PXXenI84voTAiyBNMYXxMFf38Xo6HZUBsiFI88kJ72nhHE0Vb3vV0EVy0Rm5Ow==",
+      "path": "mintplayer.aspnetcore.spaservices.routing/8.2.0",
+      "hashPath": "mintplayer.aspnetcore.spaservices.routing.8.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "WebMarkupMin.AspNet.Common/2.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w5v2QkEMLudVNXRq42Up3EpsEfjtJsSJvZPwm544FrX+iNw7JduCAZ6at7lJgXt7alMHKulP5GInE0d08PPMTA==",
+      "path": "webmarkupmin.aspnet.common/2.18.0",
+      "hashPath": "webmarkupmin.aspnet.common.2.18.0.nupkg.sha512"
+    },
+    "WebMarkupMin.AspNetCoreLatest/2.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/nh/NNVyefx8H/OYzlCmjqGQ2NDrc8i5ki2nl9XxSAiZS1hyTZ+KP4kXdc1l2BFxCtShuvyJF3wnYy3oJ52jNg==",
+      "path": "webmarkupmin.aspnetcorelatest/2.18.0",
+      "hashPath": "webmarkupmin.aspnetcorelatest.2.18.0.nupkg.sha512"
+    },
+    "WebMarkupMin.Core/2.17.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TKCwf7usSSqKkXzc+rfc11K1GGA5KUnj241ImDRRPvpfgekUsg9FbqZuhqbOCjkEw4WDEKWN6EODPBBtP5g5hA==",
+      "path": "webmarkupmin.core/2.17.0",
+      "hashPath": "webmarkupmin.core.2.17.0.nupkg.sha512"
+    },
+    "Yarn.MSBuild/1.22.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H3/LOhsakKUYSnX8Ziu1Si+iiAi3HD96ZpXSvLq9zbkRNjYCRZmy7+umgEWBJJZnJFht8yYxjcfYabbWQtbKIg==",
+      "path": "yarn.msbuild/1.22.19",
+      "hashPath": "yarn.msbuild.1.22.19.nupkg.sha512"
+    }
+  }
+}
